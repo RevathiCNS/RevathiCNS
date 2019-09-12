@@ -9,4 +9,5 @@ Then a message ( [{"Message" : "Hellooo World!!!"}] ) is published in to the top
 A subscription with SubcriptionName 'sub1' has been created from the console.
 Console--> Cloud PubSub-->Subscriptions-->Create new Subscription
 
-
+A function named 'message' has been created to handle different messages in a pipeline. 
+The pulled messages can be seen in 'view logs'
